@@ -6,7 +6,7 @@
 
 /* 
  * File:   main.cpp
- * Author: Rui
+ * Author: Rui Dai
  *
  * Created on October 14, 2016, 3:35 PM
  */
